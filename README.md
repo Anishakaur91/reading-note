@@ -1,6 +1,6 @@
 # reading-note
 ## Who is Anisha
-Hi,my name is Anisha, I am an Accountant
+Hi,my name is Anisha, I am an Accountant, so I am new to coding.
 ## ***Hobbies***
 I like reading books
 
