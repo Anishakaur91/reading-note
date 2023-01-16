@@ -1,4 +1,7 @@
 # reading-note
+
+## Table of contents
+[Class 02][Class 02](https://anishakaur91.github.io/reading-notes/class-02)
 ## Who is Anisha
 Hi,my name is Anisha, I am an Accountant, so I am new to coding.
 ## ***Hobbies***
