@@ -10,6 +10,6 @@ Growth mindset is even though i cant do something yet, I have the ability to do 
 
 ###### What are the Three reminders to keep you on track
 
-**1.Hardwork**
-**2.Putting extra effort**
-**3.Embracing Obstacles**
+**1. Hardwork**
+**2. Putting extra effort**
+**3. Embracing Obstacles**
